@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "7c74",
+      "cityName": "Dallas",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-05-21T19:10:21.227Z",
+      "notes": "Wonderful",
+      "position": {
+        "lat": "32.7786152973071",
+        "lng": "-96.79830551147461"
+      }
+    },
+    {
+      "id": "99ff",
+      "cityName": "Cedrillas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-23T04:03:31.331Z",
+      "notes": "",
+      "position": {
+        "lat": "40.442742367015384",
+        "lng": "-0.8514404296875"
+      }
+    },
+    {
+      "id": "03ca",
+      "cityName": "El Frasno",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-23T04:03:34.510Z",
+      "notes": "",
+      "position": {
+        "lat": "41.397401038594296",
+        "lng": "-1.4447021484375"
+      }
+    },
+    {
+      "id": "3121",
+      "cityName": "In Salah",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-05-23T04:03:43.130Z",
+      "notes": "",
+      "position": {
+        "lat": "27.839076094777816",
+        "lng": "2.2851562500000004"
+      }
+    },
+    {
+      "id": "93ce",
+      "cityName": "Atlanta",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-05-23T04:03:53.429Z",
+      "notes": "",
+      "position": {
+        "lat": "33.906895551288684",
+        "lng": "-84.68261718750001"
+      }
+    },
+    {
+      "id": "1a83",
+      "cityName": "District 4",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-05-23T04:03:56.342Z",
+      "notes": "",
+      "position": {
+        "lat": "36.27970720524017",
+        "lng": "-85.55053710937501"
+      }
+    }
+  ]
+}
